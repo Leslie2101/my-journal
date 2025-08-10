@@ -1,0 +1,9 @@
+{
+    "label": "Java RMI",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Java remote method invocation (RMI)"
+    }
+  }
+  
